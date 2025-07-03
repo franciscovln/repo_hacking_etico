@@ -8,12 +8,12 @@ Simular un escenario de filtración de datos sensibles de una aplicación web vu
 
 ## Evidencia
 1. Subir el login falso a Mutillidae
-   ![](1_subir_archivo.png)
+   ![](2_subir_archivo.png)
 
 2. Crear una base de datos en Alwaysdata donde almacenemos la información del formulario
-   ![](3_base_de_datos.png)
+   ![](4_base_de_datos.png)
 3. Esperar a que alguien coloque sus datos de usuario en el formulario y se refleje en la base de datos
-   ![](4_formulario_phishing.png)
-   ![](5_captura_datos.png)
-4. Mostrar los datos con un archivo PHP que consulte a la base de datos de Alwaysdata![](6_mostrar_datos.png)
+   ![](5_formulario_phishing.png)
+   ![](6_captura_datos.png)
+4. Mostrar los datos con un archivo PHP que consulte a la base de datos de Alwaysdata![](7_mostrar_datos.png)
 
